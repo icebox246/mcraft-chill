@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2020-10-30 10:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-25 17:27:43 +0000"
@@ -756,6 +762,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2020-10-29 13:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2020-10-30 10:28:21 +0000"
     },
     "done": true
   },
@@ -1245,6 +1257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-10-30 10:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-10-25 17:21:20 +0000"
@@ -1272,6 +1290,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2020-10-26 07:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2020-10-30 10:30:25 +0000"
     },
     "done": true
   },
@@ -1394,6 +1418,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2020-10-26 07:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2020-10-30 10:35:19 +0000"
     },
     "done": true
   },
@@ -2075,6 +2105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2020-10-30 10:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2020-10-26 11:37:03 +0000"
@@ -2315,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2020-10-30 10:30:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2020-10-26 07:44:33 +0000"
@@ -2507,6 +2549,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2020-10-30 10:28:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-26 07:49:41 +0000"
@@ -2522,6 +2570,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2020-10-25 17:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2020-10-30 10:28:21 +0000"
     },
     "done": true
   },
@@ -2564,6 +2618,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-10-26 07:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-10-30 10:31:19 +0000"
     },
     "done": true
   },

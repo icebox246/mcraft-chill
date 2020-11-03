@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-10-30 18:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2020-10-23 13:41:11 +0000"
@@ -230,6 +236,12 @@
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2020-10-26 16:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-10-30 16:59:38 +0000"
     },
     "done": true
   },
@@ -536,6 +548,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-10-23 16:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2020-10-30 17:00:08 +0000"
     },
     "done": true
   },
@@ -1752,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2020-10-30 17:00:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2020-10-24 14:52:53 +0000"
@@ -1777,6 +1801,12 @@
       "minecraft:soul_sand_valley": "2020-10-23 17:53:27 +0000",
       "minecraft:basalt_deltas": "2020-10-25 17:28:14 +0000",
       "minecraft:warped_forest": "2020-10-28 10:03:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-10-30 16:25:19 +0000"
     },
     "done": true
   },
@@ -1927,6 +1957,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2020-10-27 07:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2020-10-30 17:00:08 +0000"
     },
     "done": true
   },
@@ -2158,8 +2194,10 @@
       "chicken": "2020-10-23 15:16:51 +0000",
       "sweet_berries": "2020-10-23 16:55:32 +0000",
       "cooked_beef": "2020-10-24 10:51:43 +0000",
+      "chorus_fruit": "2020-10-30 17:01:01 +0000",
       "baked_potato": "2020-10-24 14:01:44 +0000",
       "apple": "2020-10-23 15:29:50 +0000",
+      "poisonous_potato": "2020-10-30 16:40:17 +0000",
       "bread": "2020-10-23 14:30:45 +0000",
       "rotten_flesh": "2020-10-23 15:25:05 +0000",
       "suspicious_stew": "2020-10-25 11:07:35 +0000",
@@ -2666,6 +2704,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-10-23 15:49:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-11-03 08:44:38 +0000"
     },
     "done": true
   },
@@ -3479,6 +3523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2020-10-30 18:20:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-10-23 13:43:19 +0000"
@@ -3580,6 +3630,7 @@
       "textures/entity/cat/white.png": "2020-10-24 21:08:13 +0000",
       "textures/entity/cat/black.png": "2020-10-24 14:57:01 +0000",
       "textures/entity/cat/jellie.png": "2020-10-24 16:45:26 +0000",
+      "textures/entity/cat/siamese.png": "2020-10-30 16:33:44 +0000",
       "textures/entity/cat/british_shorthair.png": "2020-10-24 14:59:09 +0000",
       "textures/entity/cat/calico.png": "2020-10-24 20:26:51 +0000",
       "textures/entity/cat/red.png": "2020-10-26 07:27:00 +0000"

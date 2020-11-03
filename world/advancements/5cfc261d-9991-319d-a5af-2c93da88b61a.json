@@ -29,15 +29,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2020-10-29 21:23:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2020-10-29 21:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2020-10-29 21:23:15 +0000"
     },
     "done": true
   },
@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-10-30 20:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-10-23 12:56:27 +0000"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2020-10-29 21:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2020-11-01 20:16:56 +0000"
     },
     "done": true
   },
@@ -870,6 +882,7 @@
       "minecraft:spider": "2020-10-23 11:49:03 +0000",
       "minecraft:creeper": "2020-10-23 09:50:35 +0000",
       "minecraft:evoker": "2020-10-29 11:55:00 +0000",
+      "minecraft:slime": "2020-10-30 16:09:50 +0000",
       "minecraft:phantom": "2020-10-23 23:18:17 +0000",
       "minecraft:zombified_piglin": "2020-10-23 14:57:39 +0000",
       "minecraft:witch": "2020-10-24 13:20:44 +0000",
@@ -1767,6 +1780,7 @@
       "minecraft:deep_lukewarm_ocean": "2020-10-23 19:10:31 +0000",
       "minecraft:badlands": "2020-10-23 19:59:48 +0000",
       "minecraft:beach": "2020-10-23 15:24:04 +0000",
+      "minecraft:dark_forest": "2020-10-30 15:54:09 +0000",
       "minecraft:river": "2020-10-23 09:41:10 +0000",
       "minecraft:lukewarm_ocean": "2020-10-23 17:09:48 +0000",
       "minecraft:birch_forest_hills": "2020-10-23 20:05:36 +0000",
@@ -2113,6 +2127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2020-11-01 20:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2020-10-25 19:36:55 +0000"
@@ -2146,6 +2166,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2020-10-26 12:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_white_flower": "2020-10-30 16:20:47 +0000"
     },
     "done": true
   },
@@ -2506,6 +2532,7 @@
       "porkchop": "2020-10-23 12:13:09 +0000",
       "potato": "2020-10-23 12:32:29 +0000",
       "cooked_cod": "2020-10-23 18:22:51 +0000",
+      "poisonous_potato": "2020-10-30 16:40:16 +0000",
       "pumpkin_pie": "2020-10-24 15:27:18 +0000",
       "bread": "2020-10-23 14:30:12 +0000",
       "golden_apple": "2020-10-28 20:31:13 +0000",
